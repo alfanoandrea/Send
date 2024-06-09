@@ -1,4 +1,4 @@
-# Send - by alfanowski
+# Send
 
 ## Introduction
 Send is a Python program that allows you to transfer files from one host to another using the Secure Copy Protocol (SCP) via the command line.
